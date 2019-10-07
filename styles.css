@@ -1,0 +1,13 @@
+body
+{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.imagen
+{
+    width: 200px;
+    height: 200px;
+}
